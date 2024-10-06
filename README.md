@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsalazarv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="angelsalazarv" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsalazarv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="angelsalazarv" />
 </p>
 
 <p align="center">
