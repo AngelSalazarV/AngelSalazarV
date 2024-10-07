@@ -97,5 +97,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelsalazarv&theme=dark" alt="angelsalazarv" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelsalazarv&theme=dracula" alt="angelsalazarv" />
 </p>
