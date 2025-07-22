@@ -8,7 +8,7 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; text-align: center;">
+<div  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; text-align: center;">
 
   <div>
     <h3>Languages</h3>
