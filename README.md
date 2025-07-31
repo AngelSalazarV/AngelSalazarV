@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelsalazarv&theme=dracula" alt="angelsalazarv" />
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=angelsalazarv&theme=dracula](https://camo.githubusercontent.com/5074c988629a066ba42d5baf94634c36c4d2b177e0ab11955a0a22df5edeaf21/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e67656c73616c617a617276267468656d653d64726163756c61)" alt="angelsalazarv" />
 </p>
